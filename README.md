@@ -22,7 +22,7 @@ A free external app for the HackRF PortaPack H4M (Mayhem firmware): HF band plan
 
 1. Download the latest release from [GitHub Releases](https://github.com/khanfar/khanfar-h4m-apps/releases)
 2. Flash the custom firmware using [hackrf.app](https://hackrf.app/)
-3. Copy the files to your SD card
+3. Copy all app files to your SD card (these included KhanfarRX app, download them from https://khanfar-h4m-apps.web.app)
 4. Set the clock to UTC on your H4M
 5. Launch KhanfarRX from the Receive menu
 
