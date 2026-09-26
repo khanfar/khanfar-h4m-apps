@@ -40,7 +40,7 @@ FT8-geo decodes FT8 like the stock FT8 RX app (same decoder, same band buttons, 
 
 1. Download the latest release from [GitHub Releases](https://github.com/khanfar/khanfar-h4m-apps/releases)
 2. Flash the custom firmware using [hackrf.app](https://hackrf.app/)
-3. Copy all app files to your SD card (download them from https://khanfar-h4m-apps.web.app), then:
+3. Copy all app files to your SD card (download them from https://khanfar-h4m-apps.web.app or from [GitHub Releases](https://github.com/khanfar/khanfar-h4m-apps/releases)), then:
    - create an `EIBI` folder in the root of the card — download the EIBI database from eibispace.de, convert it with the online EIBI converter, and put the file at `/EIBI/eibi.bin` (needed by KhanfarRX)
    - copy the map file to `/ADSB/ft8geo_map.bin` (needed by FT8-geo; the stock `/ADSB/world_map.bin` stays as it is for ADS-B)
 4. Set the clock to UTC on your H4M
